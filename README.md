@@ -38,6 +38,55 @@ This project explores quantitative finance concepts:
 - Technical indicators
 - Time series analysis 
 
+## Example Usage
+
+Run the program:
+
+```bash
+python3 stock_analyzer.py
+```
+
+Example input:
+
+```text
+Enter a stock ticker: AAPL
+Enter a second stock ticker (press Enter if not comparing): MSFT
+Enter a period (6mo, 1y, 2y, 5y): 2y
+```
+
+Example output:
+
+```text
+Stock Performance Summary
+
+Ticker: AAPL
+Trading Days: 500
+
+Average Daily Return: 0.10%
+Median Daily Return: 0.12%
+
+Largest Daily Gain: 15.33%
+Date: 2025-04-09
+
+Largest Daily Loss: -9.25%
+Date: 2025-04-03
+
+Cumulative Return: 50.07%
+
+Positive Return Days: 272
+Negative Return Days: 227
+
+Average 20 Day Volatility: 1.60%
+
+Maximum Drawdown: -33.36%
+
+Golden Cross Dates:
+2024-12-03
+2025-03-06
+2025-06-05
+```
+
+
 ## Visualizations
 
 ### Closing Price Analysis
