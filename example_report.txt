@@ -1,0 +1,85 @@
+Stock Performance Summary
+
+Ticker: AAPL
+Trading Days: 500
+
+
+All Daily Return Calculations:
+Average Daily Return: 0.10%
+Median Daily Return: 0.12%
+
+Largest Daily Gain: 15.33%
+Date: 2025-04-09 00:00:00
+
+Largest Daily Loss: -9.25%
+Date: 2025-04-03 00:00:00
+
+Cumulative Return: 50.07%
+
+
+All Positive and Negative Day Calculations:
+Positive Return Days: 272
+Negative Return Days: 227
+Flat Days: 1
+Total Days: 500
+
+Positive Days Percentage: 54.40%
+Negative Days Percentage: 45.40%
+Flat Days Percentage: 0.20%
+
+Days above +2%: 44
+Days below -2%: 41
+
+
+All Volume Calculations:
+Average Trading Volume: 51,900,119
+Median Trading Volume: 46,004,400
+
+Highest Trading Volume: 318,679,900
+Date: 2024-09-20 00:00:00
+
+Lowest Trading Volume: 17,910,600
+Date: 2025-12-24 00:00:00
+
+
+Winning and Losing Streaks:
+Longest winning streak: 8
+Longest losing streak: 8
+
+
+Moving Average Crossovers:
+Golden Cross Dates:
+2024-12-03 00:00:00
+2025-03-06 00:00:00
+2025-06-05 00:00:00
+2025-07-11 00:00:00
+2026-02-23 00:00:00
+2026-04-23 00:00:00
+2026-07-09 00:00:00
+
+Death Cross Dates:
+2024-11-19 00:00:00
+2025-01-27 00:00:00
+2025-03-17 00:00:00
+2025-06-17 00:00:00
+2026-01-07 00:00:00
+2026-03-18 00:00:00
+2026-07-08 00:00:00
+
+
+Volatility Analysis:
+Daily Volatility: 0.10%
+Average 20 Day Volatility: 1.60%
+
+
+Rolling Volatility:
+Highest 20 Day Volatility: 5.15%
+Date: 2025-04-24 00:00:00
+
+Lowest 20 Day Volatility: 0.60%
+Date: 2024-12-17 00:00:00
+
+
+Drawdown Analysis:
+Maximum Drawdown: -33.36%
+Occurred On: 2025-04-08 00:00:00
