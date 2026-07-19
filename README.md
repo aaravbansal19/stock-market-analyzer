@@ -37,3 +37,21 @@ This project explores quantitative finance concepts:
 - Market volatility
 - Technical indicators
 - Time series analysis 
+
+## Visualizations
+
+### Closing Price Analysis
+
+![Closing Price](images/AAPL_price_chart.png)
+
+### Moving Average Analysis
+
+![Moving Averages](images/AAPL_moving_averages.png)
+
+### Daily Return Distribution
+
+![Daily Returns](images/AAPL_returns_histogram.png)
+
+### Volatility Analysis
+
+![Volatility](images/AAPL_volatility_chart.png)
